@@ -2,7 +2,12 @@
 
 这里展示一个关于随手记录、长期保存与信息整理的项目设想。标题只描述这个项目是什么，并非项目名称；相关应用功能尚待开发。
 
-## 查看
+## 在线查看
+
+- [项目设想网页](https://blowingwind05.github.io/self-chat-concept-web/) · [独立源码仓库](https://github.com/blowingwind05/self-chat-concept-web)
+- [独立动画短片](https://blowingwind05.github.io/self-chat-concept-film/) · [独立源码仓库](https://github.com/blowingwind05/self-chat-concept-film)
+
+## 本地查看
 
 下载仓库并解压后，双击 `web/index.html` 打开完整网页。首屏的词语汇聚、滚动展示和嵌入短片均可在本地运行，无需安装依赖。
 
